@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c ' *)",
+      "Bash(python3 -c \"import shapefile\")",
+      "Bash(python3 -c \"import geopandas\")",
+      "Bash(python3 -c \"import osgeo\")",
+      "Bash(pip show *)",
+      "Bash(python3 -c \"import geopandas; print\\(geopandas.__version__\\)\")",
+      "Bash(npm view *)",
+      "Bash(npm install *)",
+      "Bash(curl -s \"http://localhost:5173/src/components/overview/GNTile.tsx\")",
+      "Bash(npx tsc *)",
+      "Bash(npm run *)",
+      "Bash(pip install *)",
+      "PowerShell(Copy-Item \"E:\\\\2025\\\\Level 02 Sem 1\\\\Dashboard\\\\Dash\\\\Dehiwala-Spatial-Dashboard \\(1\\)\\\\dehiwala-dashboard\\\\Blender\\\\Dehiwala.glb\" \"E:\\\\2025\\\\Level 02 Sem 1\\\\Dashboard\\\\Dash\\\\Dehiwala-Spatial-Dashboard \\(1\\)\\\\dehiwala-dashboard\\\\public\\\\data\\\\Dehiwala.glb\")",
+      "Bash(node -e \"const fs=require\\('fs'\\);const d=JSON.parse\\(fs.readFileSync\\('public/data/landuse.geojson','utf8'\\)\\);console.log\\('features:',d.features.length\\);const domains={};d.features.forEach\\(f=>{const dom=f.properties.domain;if\\(!domains[dom]\\)domains[dom]={count:0,area:0};domains[dom].count++;domains[dom].area+=f.properties.areaM2||0}\\);console.log\\(JSON.stringify\\(domains,null,2\\)\\);console.log\\('sample props:',JSON.stringify\\(d.features[0].properties\\)\\)\")",
+      "Bash(node -e \"const fs=require\\('fs'\\);const d=JSON.parse\\(fs.readFileSync\\('public/data/landuse.geojson','utf8'\\)\\);const mc={};d.features.forEach\\(f=>{const k=f.properties.mainClass;if\\(!mc[k]\\)mc[k]={count:0,area:0};mc[k].count++;mc[k].area+=f.properties.areaM2||0}\\);const sorted=Object.entries\\(mc\\).sort\\(\\(a,b\\)=>b[1].area-a[1].area\\);console.log\\(JSON.stringify\\(sorted.map\\(\\([k,v]\\)=>\\({class:k,area:v.area.toFixed\\(1\\),pct:\\(v.area/537.65*100\\).toFixed\\(1\\)}\\)\\),null,2\\)\\)\")",
+      "Bash(node -e \"const fs=require\\('fs'\\);const d=JSON.parse\\(fs.readFileSync\\('public/data/population.json','utf8'\\)\\);console.log\\('city:',JSON.stringify\\(d.cityAggregate\\)\\);console.log\\('divisions:',Object.keys\\(d.gnDivisions\\).length\\);Object.values\\(d.gnDivisions\\).forEach\\(g=>console.log\\(g.name,g.totalPopulation,g.malePct,g.femalePct,g.ageBands.length\\)\\)\")",
+      "PowerShell(Get-NetTCPConnection -LocalPort 5173 -ErrorAction SilentlyContinue)"
+    ]
+  }
+}

@@ -1,0 +1,1435 @@
+{
+  "gnDivisions": {
+    "Dehiwala East": {
+      "name": "Dehiwala East",
+      "totalPopulation": 8262.0,
+      "male": 3704.0,
+      "female": 4558.0,
+      "malePct": 44.8,
+      "femalePct": 55.2,
+      "ageBands": [
+        {
+          "band": "0-4",
+          "male": 170.0,
+          "female": 203.0,
+          "total": 373.0
+        },
+        {
+          "band": "5-9",
+          "male": 209.0,
+          "female": 234.0,
+          "total": 443.0
+        },
+        {
+          "band": "10-14",
+          "male": 272.0,
+          "female": 232.0,
+          "total": 504.0
+        },
+        {
+          "band": "15-19",
+          "male": 263.0,
+          "female": 270.0,
+          "total": 533.0
+        },
+        {
+          "band": "20-24",
+          "male": 439.0,
+          "female": 722.0,
+          "total": 1161.0
+        },
+        {
+          "band": "25-29",
+          "male": 323.0,
+          "female": 568.0,
+          "total": 891.0
+        },
+        {
+          "band": "30-34",
+          "male": 236.0,
+          "female": 288.0,
+          "total": 524.0
+        },
+        {
+          "band": "35-39",
+          "male": 238.0,
+          "female": 270.0,
+          "total": 508.0
+        },
+        {
+          "band": "40-44",
+          "male": 255.0,
+          "female": 246.0,
+          "total": 501.0
+        },
+        {
+          "band": "45-49",
+          "male": 252.0,
+          "female": 278.0,
+          "total": 530.0
+        },
+        {
+          "band": "50-54",
+          "male": 217.0,
+          "female": 250.0,
+          "total": 467.0
+        },
+        {
+          "band": "55-59",
+          "male": 202.0,
+          "female": 235.0,
+          "total": 437.0
+        },
+        {
+          "band": "60-64",
+          "male": 194.0,
+          "female": 203.0,
+          "total": 397.0
+        },
+        {
+          "band": "65-69",
+          "male": 135.0,
+          "female": 175.0,
+          "total": 310.0
+        },
+        {
+          "band": "70-74",
+          "male": 130.0,
+          "female": 167.0,
+          "total": 297.0
+        },
+        {
+          "band": "75-79",
+          "male": 86.0,
+          "female": 119.0,
+          "total": 205.0
+        },
+        {
+          "band": "80-84",
+          "male": 61.0,
+          "female": 62.0,
+          "total": 123.0
+        },
+        {
+          "band": "85-89",
+          "male": 20.0,
+          "female": 27.0,
+          "total": 47.0
+        },
+        {
+          "band": "90-94",
+          "male": 2.0,
+          "female": 8.0,
+          "total": 10.0
+        },
+        {
+          "band": "95 and above",
+          "male": 0.0,
+          "female": 1.0,
+          "total": 1.0
+        }
+      ]
+    },
+    "Dehiwala West": {
+      "name": "Dehiwala West",
+      "totalPopulation": 7046.0,
+      "male": 3380.0,
+      "female": 3666.0,
+      "malePct": 48.0,
+      "femalePct": 52.0,
+      "ageBands": [
+        {
+          "band": "0-4",
+          "male": 183.0,
+          "female": 163.0,
+          "total": 346.0
+        },
+        {
+          "band": "5-9",
+          "male": 190.0,
+          "female": 168.0,
+          "total": 358.0
+        },
+        {
+          "band": "10-14",
+          "male": 194.0,
+          "female": 164.0,
+          "total": 358.0
+        },
+        {
+          "band": "15-19",
+          "male": 209.0,
+          "female": 202.0,
+          "total": 411.0
+        },
+        {
+          "band": "20-24",
+          "male": 274.0,
+          "female": 271.0,
+          "total": 545.0
+        },
+        {
+          "band": "25-29",
+          "male": 217.0,
+          "female": 285.0,
+          "total": 502.0
+        },
+        {
+          "band": "30-34",
+          "male": 246.0,
+          "female": 301.0,
+          "total": 547.0
+        },
+        {
+          "band": "35-39",
+          "male": 269.0,
+          "female": 298.0,
+          "total": 567.0
+        },
+        {
+          "band": "40-44",
+          "male": 232.0,
+          "female": 248.0,
+          "total": 480.0
+        },
+        {
+          "band": "45-49",
+          "male": 203.0,
+          "female": 220.0,
+          "total": 423.0
+        },
+        {
+          "band": "50-54",
+          "male": 209.0,
+          "female": 198.0,
+          "total": 407.0
+        },
+        {
+          "band": "55-59",
+          "male": 185.0,
+          "female": 214.0,
+          "total": 399.0
+        },
+        {
+          "band": "60-64",
+          "male": 185.0,
+          "female": 217.0,
+          "total": 402.0
+        },
+        {
+          "band": "65-69",
+          "male": 169.0,
+          "female": 207.0,
+          "total": 376.0
+        },
+        {
+          "band": "70-74",
+          "male": 146.0,
+          "female": 194.0,
+          "total": 340.0
+        },
+        {
+          "band": "75-79",
+          "male": 123.0,
+          "female": 167.0,
+          "total": 290.0
+        },
+        {
+          "band": "80-84",
+          "male": 84.0,
+          "female": 86.0,
+          "total": 170.0
+        },
+        {
+          "band": "85-89",
+          "male": 42.0,
+          "female": 38.0,
+          "total": 80.0
+        },
+        {
+          "band": "90-94",
+          "male": 13.0,
+          "female": 19.0,
+          "total": 32.0
+        },
+        {
+          "band": "95 and above",
+          "male": 7.0,
+          "female": 6.0,
+          "total": 13.0
+        }
+      ]
+    },
+    "Galwala": {
+      "name": "Galwala",
+      "totalPopulation": 6001.0,
+      "male": 2943.0,
+      "female": 3058.0,
+      "malePct": 49.0,
+      "femalePct": 51.0,
+      "ageBands": [
+        {
+          "band": "0-4",
+          "male": 138.0,
+          "female": 158.0,
+          "total": 296.0
+        },
+        {
+          "band": "5-9",
+          "male": 202.0,
+          "female": 210.0,
+          "total": 412.0
+        },
+        {
+          "band": "10-14",
+          "male": 187.0,
+          "female": 217.0,
+          "total": 404.0
+        },
+        {
+          "band": "15-19",
+          "male": 210.0,
+          "female": 182.0,
+          "total": 392.0
+        },
+        {
+          "band": "20-24",
+          "male": 310.0,
+          "female": 266.0,
+          "total": 576.0
+        },
+        {
+          "band": "25-29",
+          "male": 242.0,
+          "female": 220.0,
+          "total": 462.0
+        },
+        {
+          "band": "30-34",
+          "male": 205.0,
+          "female": 225.0,
+          "total": 430.0
+        },
+        {
+          "band": "35-39",
+          "male": 222.0,
+          "female": 229.0,
+          "total": 451.0
+        },
+        {
+          "band": "40-44",
+          "male": 212.0,
+          "female": 204.0,
+          "total": 416.0
+        },
+        {
+          "band": "45-49",
+          "male": 177.0,
+          "female": 175.0,
+          "total": 352.0
+        },
+        {
+          "band": "50-54",
+          "male": 191.0,
+          "female": 189.0,
+          "total": 380.0
+        },
+        {
+          "band": "55-59",
+          "male": 173.0,
+          "female": 202.0,
+          "total": 375.0
+        },
+        {
+          "band": "60-64",
+          "male": 141.0,
+          "female": 174.0,
+          "total": 315.0
+        },
+        {
+          "band": "65-69",
+          "male": 113.0,
+          "female": 128.0,
+          "total": 241.0
+        },
+        {
+          "band": "70-74",
+          "male": 98.0,
+          "female": 101.0,
+          "total": 199.0
+        },
+        {
+          "band": "75-79",
+          "male": 69.0,
+          "female": 98.0,
+          "total": 167.0
+        },
+        {
+          "band": "80-84",
+          "male": 31.0,
+          "female": 51.0,
+          "total": 82.0
+        },
+        {
+          "band": "85-89",
+          "male": 14.0,
+          "female": 18.0,
+          "total": 32.0
+        },
+        {
+          "band": "90-94",
+          "male": 8.0,
+          "female": 8.0,
+          "total": 16.0
+        },
+        {
+          "band": "95 and above",
+          "male": 0.0,
+          "female": 3.0,
+          "total": 3.0
+        }
+      ]
+    },
+    "Hathbodhiya": {
+      "name": "Hathbodhiya",
+      "totalPopulation": 7746.0,
+      "male": 3884.0,
+      "female": 3862.0,
+      "malePct": 50.1,
+      "femalePct": 49.9,
+      "ageBands": [
+        {
+          "band": "0-4",
+          "male": 195.0,
+          "female": 182.0,
+          "total": 377.0
+        },
+        {
+          "band": "5-9",
+          "male": 254.0,
+          "female": 246.0,
+          "total": 500.0
+        },
+        {
+          "band": "10-14",
+          "male": 290.0,
+          "female": 248.0,
+          "total": 538.0
+        },
+        {
+          "band": "15-19",
+          "male": 314.0,
+          "female": 301.0,
+          "total": 615.0
+        },
+        {
+          "band": "20-24",
+          "male": 387.0,
+          "female": 282.0,
+          "total": 669.0
+        },
+        {
+          "band": "25-29",
+          "male": 306.0,
+          "female": 305.0,
+          "total": 611.0
+        },
+        {
+          "band": "30-34",
+          "male": 253.0,
+          "female": 261.0,
+          "total": 514.0
+        },
+        {
+          "band": "35-39",
+          "male": 256.0,
+          "female": 278.0,
+          "total": 534.0
+        },
+        {
+          "band": "40-44",
+          "male": 255.0,
+          "female": 263.0,
+          "total": 518.0
+        },
+        {
+          "band": "45-49",
+          "male": 263.0,
+          "female": 267.0,
+          "total": 530.0
+        },
+        {
+          "band": "50-54",
+          "male": 263.0,
+          "female": 235.0,
+          "total": 498.0
+        },
+        {
+          "band": "55-59",
+          "male": 206.0,
+          "female": 225.0,
+          "total": 431.0
+        },
+        {
+          "band": "60-64",
+          "male": 187.0,
+          "female": 206.0,
+          "total": 393.0
+        },
+        {
+          "band": "65-69",
+          "male": 162.0,
+          "female": 173.0,
+          "total": 335.0
+        },
+        {
+          "band": "70-74",
+          "male": 132.0,
+          "female": 181.0,
+          "total": 313.0
+        },
+        {
+          "band": "75-79",
+          "male": 78.0,
+          "female": 118.0,
+          "total": 196.0
+        },
+        {
+          "band": "80-84",
+          "male": 63.0,
+          "female": 54.0,
+          "total": 117.0
+        },
+        {
+          "band": "85-89",
+          "male": 15.0,
+          "female": 26.0,
+          "total": 41.0
+        },
+        {
+          "band": "90-94",
+          "male": 5.0,
+          "female": 10.0,
+          "total": 15.0
+        },
+        {
+          "band": "95 and above",
+          "male": 0.0,
+          "female": 1.0,
+          "total": 1.0
+        }
+      ]
+    },
+    "Jayathilaka": {
+      "name": "Jayathilaka",
+      "totalPopulation": 4186.0,
+      "male": 1994.0,
+      "female": 2192.0,
+      "malePct": 47.6,
+      "femalePct": 52.4,
+      "ageBands": [
+        {
+          "band": "0-4",
+          "male": 92.0,
+          "female": 111.0,
+          "total": 203.0
+        },
+        {
+          "band": "5-9",
+          "male": 110.0,
+          "female": 101.0,
+          "total": 211.0
+        },
+        {
+          "band": "10-14",
+          "male": 114.0,
+          "female": 124.0,
+          "total": 238.0
+        },
+        {
+          "band": "15-19",
+          "male": 174.0,
+          "female": 150.0,
+          "total": 324.0
+        },
+        {
+          "band": "20-24",
+          "male": 157.0,
+          "female": 190.0,
+          "total": 347.0
+        },
+        {
+          "band": "25-29",
+          "male": 163.0,
+          "female": 176.0,
+          "total": 339.0
+        },
+        {
+          "band": "30-34",
+          "male": 128.0,
+          "female": 131.0,
+          "total": 259.0
+        },
+        {
+          "band": "35-39",
+          "male": 130.0,
+          "female": 157.0,
+          "total": 287.0
+        },
+        {
+          "band": "40-44",
+          "male": 157.0,
+          "female": 140.0,
+          "total": 297.0
+        },
+        {
+          "band": "45-49",
+          "male": 134.0,
+          "female": 174.0,
+          "total": 308.0
+        },
+        {
+          "band": "50-54",
+          "male": 141.0,
+          "female": 137.0,
+          "total": 278.0
+        },
+        {
+          "band": "55-59",
+          "male": 133.0,
+          "female": 121.0,
+          "total": 254.0
+        },
+        {
+          "band": "60-64",
+          "male": 102.0,
+          "female": 120.0,
+          "total": 222.0
+        },
+        {
+          "band": "65-69",
+          "male": 77.0,
+          "female": 116.0,
+          "total": 193.0
+        },
+        {
+          "band": "70-74",
+          "male": 84.0,
+          "female": 90.0,
+          "total": 174.0
+        },
+        {
+          "band": "75-79",
+          "male": 57.0,
+          "female": 80.0,
+          "total": 137.0
+        },
+        {
+          "band": "80-84",
+          "male": 22.0,
+          "female": 38.0,
+          "total": 60.0
+        },
+        {
+          "band": "85-89",
+          "male": 11.0,
+          "female": 27.0,
+          "total": 38.0
+        },
+        {
+          "band": "90-94",
+          "male": 6.0,
+          "female": 7.0,
+          "total": 13.0
+        },
+        {
+          "band": "95 and above",
+          "male": 2.0,
+          "female": 2.0,
+          "total": 4.0
+        }
+      ]
+    },
+    "Karagampitiya": {
+      "name": "Karagampitiya",
+      "totalPopulation": 5376.0,
+      "male": 2567.0,
+      "female": 2809.0,
+      "malePct": 47.7,
+      "femalePct": 52.3,
+      "ageBands": [
+        {
+          "band": "0-4",
+          "male": 114.0,
+          "female": 117.0,
+          "total": 231.0
+        },
+        {
+          "band": "5-9",
+          "male": 163.0,
+          "female": 139.0,
+          "total": 302.0
+        },
+        {
+          "band": "10-14",
+          "male": 168.0,
+          "female": 190.0,
+          "total": 358.0
+        },
+        {
+          "band": "15-19",
+          "male": 185.0,
+          "female": 180.0,
+          "total": 365.0
+        },
+        {
+          "band": "20-24",
+          "male": 217.0,
+          "female": 237.0,
+          "total": 454.0
+        },
+        {
+          "band": "25-29",
+          "male": 180.0,
+          "female": 192.0,
+          "total": 372.0
+        },
+        {
+          "band": "30-34",
+          "male": 185.0,
+          "female": 213.0,
+          "total": 398.0
+        },
+        {
+          "band": "35-39",
+          "male": 190.0,
+          "female": 209.0,
+          "total": 399.0
+        },
+        {
+          "band": "40-44",
+          "male": 186.0,
+          "female": 169.0,
+          "total": 355.0
+        },
+        {
+          "band": "45-49",
+          "male": 155.0,
+          "female": 230.0,
+          "total": 385.0
+        },
+        {
+          "band": "50-54",
+          "male": 178.0,
+          "female": 146.0,
+          "total": 324.0
+        },
+        {
+          "band": "55-59",
+          "male": 159.0,
+          "female": 175.0,
+          "total": 334.0
+        },
+        {
+          "band": "60-64",
+          "male": 135.0,
+          "female": 164.0,
+          "total": 299.0
+        },
+        {
+          "band": "65-69",
+          "male": 112.0,
+          "female": 168.0,
+          "total": 280.0
+        },
+        {
+          "band": "70-74",
+          "male": 97.0,
+          "female": 114.0,
+          "total": 211.0
+        },
+        {
+          "band": "75-79",
+          "male": 92.0,
+          "female": 82.0,
+          "total": 174.0
+        },
+        {
+          "band": "80-84",
+          "male": 34.0,
+          "female": 46.0,
+          "total": 80.0
+        },
+        {
+          "band": "85-89",
+          "male": 11.0,
+          "female": 26.0,
+          "total": 37.0
+        },
+        {
+          "band": "90-94",
+          "male": 5.0,
+          "female": 10.0,
+          "total": 15.0
+        },
+        {
+          "band": "95 and above",
+          "male": 1.0,
+          "female": 2.0,
+          "total": 3.0
+        }
+      ]
+    },
+    "Kawdana West": {
+      "name": "Kawdana West",
+      "totalPopulation": 6643.0,
+      "male": 3298.0,
+      "female": 3345.0,
+      "malePct": 49.6,
+      "femalePct": 50.4,
+      "ageBands": [
+        {
+          "band": "0-4",
+          "male": 158.0,
+          "female": 160.0,
+          "total": 318.0
+        },
+        {
+          "band": "5-9",
+          "male": 177.0,
+          "female": 171.0,
+          "total": 348.0
+        },
+        {
+          "band": "10-14",
+          "male": 205.0,
+          "female": 190.0,
+          "total": 395.0
+        },
+        {
+          "band": "15-19",
+          "male": 236.0,
+          "female": 206.0,
+          "total": 442.0
+        },
+        {
+          "band": "20-24",
+          "male": 261.0,
+          "female": 267.0,
+          "total": 528.0
+        },
+        {
+          "band": "25-29",
+          "male": 288.0,
+          "female": 280.0,
+          "total": 568.0
+        },
+        {
+          "band": "30-34",
+          "male": 280.0,
+          "female": 222.0,
+          "total": 502.0
+        },
+        {
+          "band": "35-39",
+          "male": 224.0,
+          "female": 225.0,
+          "total": 449.0
+        },
+        {
+          "band": "40-44",
+          "male": 203.0,
+          "female": 206.0,
+          "total": 409.0
+        },
+        {
+          "band": "45-49",
+          "male": 208.0,
+          "female": 235.0,
+          "total": 443.0
+        },
+        {
+          "band": "50-54",
+          "male": 249.0,
+          "female": 204.0,
+          "total": 453.0
+        },
+        {
+          "band": "55-59",
+          "male": 190.0,
+          "female": 218.0,
+          "total": 408.0
+        },
+        {
+          "band": "60-64",
+          "male": 191.0,
+          "female": 241.0,
+          "total": 432.0
+        },
+        {
+          "band": "65-69",
+          "male": 145.0,
+          "female": 174.0,
+          "total": 319.0
+        },
+        {
+          "band": "70-74",
+          "male": 117.0,
+          "female": 127.0,
+          "total": 244.0
+        },
+        {
+          "band": "75-79",
+          "male": 95.0,
+          "female": 112.0,
+          "total": 207.0
+        },
+        {
+          "band": "80-84",
+          "male": 48.0,
+          "female": 53.0,
+          "total": 101.0
+        },
+        {
+          "band": "85-89",
+          "male": 14.0,
+          "female": 29.0,
+          "total": 43.0
+        },
+        {
+          "band": "90-94",
+          "male": 8.0,
+          "female": 22.0,
+          "total": 30.0
+        },
+        {
+          "band": "95 and above",
+          "male": 1.0,
+          "female": 3.0,
+          "total": 4.0
+        }
+      ]
+    },
+    "Malwatta": {
+      "name": "Malwatta",
+      "totalPopulation": 3751.0,
+      "male": 1872.0,
+      "female": 1879.0,
+      "malePct": 49.9,
+      "femalePct": 50.1,
+      "ageBands": [
+        {
+          "band": "0-4",
+          "male": 68.0,
+          "female": 62.0,
+          "total": 130.0
+        },
+        {
+          "band": "5-9",
+          "male": 101.0,
+          "female": 90.0,
+          "total": 191.0
+        },
+        {
+          "band": "10-14",
+          "male": 133.0,
+          "female": 99.0,
+          "total": 232.0
+        },
+        {
+          "band": "15-19",
+          "male": 141.0,
+          "female": 138.0,
+          "total": 279.0
+        },
+        {
+          "band": "20-24",
+          "male": 179.0,
+          "female": 149.0,
+          "total": 328.0
+        },
+        {
+          "band": "25-29",
+          "male": 119.0,
+          "female": 127.0,
+          "total": 246.0
+        },
+        {
+          "band": "30-34",
+          "male": 118.0,
+          "female": 117.0,
+          "total": 235.0
+        },
+        {
+          "band": "35-39",
+          "male": 115.0,
+          "female": 145.0,
+          "total": 260.0
+        },
+        {
+          "band": "40-44",
+          "male": 106.0,
+          "female": 100.0,
+          "total": 206.0
+        },
+        {
+          "band": "45-49",
+          "male": 105.0,
+          "female": 146.0,
+          "total": 251.0
+        },
+        {
+          "band": "50-54",
+          "male": 150.0,
+          "female": 157.0,
+          "total": 307.0
+        },
+        {
+          "band": "55-59",
+          "male": 124.0,
+          "female": 119.0,
+          "total": 243.0
+        },
+        {
+          "band": "60-64",
+          "male": 155.0,
+          "female": 125.0,
+          "total": 280.0
+        },
+        {
+          "band": "65-69",
+          "male": 93.0,
+          "female": 102.0,
+          "total": 195.0
+        },
+        {
+          "band": "70-74",
+          "male": 69.0,
+          "female": 70.0,
+          "total": 139.0
+        },
+        {
+          "band": "75-79",
+          "male": 59.0,
+          "female": 62.0,
+          "total": 121.0
+        },
+        {
+          "band": "80-84",
+          "male": 27.0,
+          "female": 41.0,
+          "total": 68.0
+        },
+        {
+          "band": "85-89",
+          "male": 6.0,
+          "female": 25.0,
+          "total": 31.0
+        },
+        {
+          "band": "90-94",
+          "male": 4.0,
+          "female": 5.0,
+          "total": 9.0
+        },
+        {
+          "band": "95 and above",
+          "male": 0.0,
+          "female": 0.0,
+          "total": 0.0
+        }
+      ]
+    },
+    "Mount Lavinia": {
+      "name": "Mount Lavinia",
+      "totalPopulation": 8086.0,
+      "male": 4154.0,
+      "female": 3932.0,
+      "malePct": 51.4,
+      "femalePct": 48.6,
+      "ageBands": [
+        {
+          "band": "0-4",
+          "male": 181.0,
+          "female": 184.0,
+          "total": 365.0
+        },
+        {
+          "band": "5-9",
+          "male": 219.0,
+          "female": 179.0,
+          "total": 398.0
+        },
+        {
+          "band": "10-14",
+          "male": 257.0,
+          "female": 187.0,
+          "total": 444.0
+        },
+        {
+          "band": "15-19",
+          "male": 308.0,
+          "female": 244.0,
+          "total": 552.0
+        },
+        {
+          "band": "20-24",
+          "male": 396.0,
+          "female": 287.0,
+          "total": 683.0
+        },
+        {
+          "band": "25-29",
+          "male": 349.0,
+          "female": 293.0,
+          "total": 642.0
+        },
+        {
+          "band": "30-34",
+          "male": 283.0,
+          "female": 255.0,
+          "total": 538.0
+        },
+        {
+          "band": "35-39",
+          "male": 280.0,
+          "female": 280.0,
+          "total": 560.0
+        },
+        {
+          "band": "40-44",
+          "male": 286.0,
+          "female": 259.0,
+          "total": 545.0
+        },
+        {
+          "band": "45-49",
+          "male": 289.0,
+          "female": 284.0,
+          "total": 573.0
+        },
+        {
+          "band": "50-54",
+          "male": 276.0,
+          "female": 267.0,
+          "total": 543.0
+        },
+        {
+          "band": "55-59",
+          "male": 256.0,
+          "female": 247.0,
+          "total": 503.0
+        },
+        {
+          "band": "60-64",
+          "male": 246.0,
+          "female": 251.0,
+          "total": 497.0
+        },
+        {
+          "band": "65-69",
+          "male": 196.0,
+          "female": 242.0,
+          "total": 438.0
+        },
+        {
+          "band": "70-74",
+          "male": 148.0,
+          "female": 202.0,
+          "total": 350.0
+        },
+        {
+          "band": "75-79",
+          "male": 103.0,
+          "female": 139.0,
+          "total": 242.0
+        },
+        {
+          "band": "80-84",
+          "male": 58.0,
+          "female": 75.0,
+          "total": 133.0
+        },
+        {
+          "band": "85-89",
+          "male": 17.0,
+          "female": 37.0,
+          "total": 54.0
+        },
+        {
+          "band": "90-94",
+          "male": 6.0,
+          "female": 12.0,
+          "total": 18.0
+        },
+        {
+          "band": "95 and above",
+          "male": 0.0,
+          "female": 8.0,
+          "total": 8.0
+        }
+      ]
+    },
+    "Udyanaya": {
+      "name": "Udyanaya",
+      "totalPopulation": 7122.0,
+      "male": 3517.0,
+      "female": 3605.0,
+      "malePct": 49.4,
+      "femalePct": 50.6,
+      "ageBands": [
+        {
+          "band": "0-4",
+          "male": 180.0,
+          "female": 192.0,
+          "total": 372.0
+        },
+        {
+          "band": "5-9",
+          "male": 253.0,
+          "female": 233.0,
+          "total": 486.0
+        },
+        {
+          "band": "10-14",
+          "male": 266.0,
+          "female": 280.0,
+          "total": 546.0
+        },
+        {
+          "band": "15-19",
+          "male": 271.0,
+          "female": 292.0,
+          "total": 563.0
+        },
+        {
+          "band": "20-24",
+          "male": 291.0,
+          "female": 303.0,
+          "total": 594.0
+        },
+        {
+          "band": "25-29",
+          "male": 271.0,
+          "female": 263.0,
+          "total": 534.0
+        },
+        {
+          "band": "30-34",
+          "male": 240.0,
+          "female": 216.0,
+          "total": 456.0
+        },
+        {
+          "band": "35-39",
+          "male": 228.0,
+          "female": 253.0,
+          "total": 481.0
+        },
+        {
+          "band": "40-44",
+          "male": 244.0,
+          "female": 259.0,
+          "total": 503.0
+        },
+        {
+          "band": "45-49",
+          "male": 287.0,
+          "female": 237.0,
+          "total": 524.0
+        },
+        {
+          "band": "50-54",
+          "male": 251.0,
+          "female": 259.0,
+          "total": 510.0
+        },
+        {
+          "band": "55-59",
+          "male": 199.0,
+          "female": 186.0,
+          "total": 385.0
+        },
+        {
+          "band": "60-64",
+          "male": 171.0,
+          "female": 179.0,
+          "total": 350.0
+        },
+        {
+          "band": "65-69",
+          "male": 158.0,
+          "female": 157.0,
+          "total": 315.0
+        },
+        {
+          "band": "70-74",
+          "male": 90.0,
+          "female": 124.0,
+          "total": 214.0
+        },
+        {
+          "band": "75-79",
+          "male": 67.0,
+          "female": 93.0,
+          "total": 160.0
+        },
+        {
+          "band": "80-84",
+          "male": 37.0,
+          "female": 52.0,
+          "total": 89.0
+        },
+        {
+          "band": "85-89",
+          "male": 10.0,
+          "female": 23.0,
+          "total": 33.0
+        },
+        {
+          "band": "90-94",
+          "male": 3.0,
+          "female": 3.0,
+          "total": 6.0
+        },
+        {
+          "band": "95 and above",
+          "male": 0.0,
+          "female": 1.0,
+          "total": 1.0
+        }
+      ]
+    }
+  },
+  "cityAggregate": {
+    "name": "Dehiwala (Surveyed GN Divisions)",
+    "totalPopulation": 64219.0,
+    "male": 31313.0,
+    "female": 32906.0,
+    "malePct": 48.8,
+    "femalePct": 51.2,
+    "ageBands": [
+      {
+        "band": "0-4",
+        "male": 1479.0,
+        "female": 1532.0,
+        "total": 3011.0
+      },
+      {
+        "band": "5-9",
+        "male": 1878.0,
+        "female": 1771.0,
+        "total": 3649.0
+      },
+      {
+        "band": "10-14",
+        "male": 2086.0,
+        "female": 1931.0,
+        "total": 4017.0
+      },
+      {
+        "band": "15-19",
+        "male": 2311.0,
+        "female": 2165.0,
+        "total": 4476.0
+      },
+      {
+        "band": "20-24",
+        "male": 2911.0,
+        "female": 2974.0,
+        "total": 5885.0
+      },
+      {
+        "band": "25-29",
+        "male": 2458.0,
+        "female": 2709.0,
+        "total": 5167.0
+      },
+      {
+        "band": "30-34",
+        "male": 2174.0,
+        "female": 2229.0,
+        "total": 4403.0
+      },
+      {
+        "band": "35-39",
+        "male": 2152.0,
+        "female": 2344.0,
+        "total": 4496.0
+      },
+      {
+        "band": "40-44",
+        "male": 2136.0,
+        "female": 2094.0,
+        "total": 4230.0
+      },
+      {
+        "band": "45-49",
+        "male": 2073.0,
+        "female": 2246.0,
+        "total": 4319.0
+      },
+      {
+        "band": "50-54",
+        "male": 2125.0,
+        "female": 2042.0,
+        "total": 4167.0
+      },
+      {
+        "band": "55-59",
+        "male": 1827.0,
+        "female": 1942.0,
+        "total": 3769.0
+      },
+      {
+        "band": "60-64",
+        "male": 1707.0,
+        "female": 1880.0,
+        "total": 3587.0
+      },
+      {
+        "band": "65-69",
+        "male": 1360.0,
+        "female": 1642.0,
+        "total": 3002.0
+      },
+      {
+        "band": "70-74",
+        "male": 1111.0,
+        "female": 1370.0,
+        "total": 2481.0
+      },
+      {
+        "band": "75-79",
+        "male": 829.0,
+        "female": 1070.0,
+        "total": 1899.0
+      },
+      {
+        "band": "80-84",
+        "male": 465.0,
+        "female": 558.0,
+        "total": 1023.0
+      },
+      {
+        "band": "85-89",
+        "male": 160.0,
+        "female": 276.0,
+        "total": 436.0
+      },
+      {
+        "band": "90-94",
+        "male": 60.0,
+        "female": 104.0,
+        "total": 164.0
+      },
+      {
+        "band": "95 and above",
+        "male": 11.0,
+        "female": 27.0,
+        "total": 38.0
+      }
+    ],
+    "gnCount": 10
+  }
+}

@@ -1,0 +1,137 @@
+@import "tailwindcss";
+@import "leaflet/dist/leaflet.css";
+
+@theme {
+  --font-display: "Rajdhani", "Inter", sans-serif;
+  --font-body: "Inter", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+
+  --color-bg-deep: #050b14;
+  --color-bg-panel: #0a1626;
+  --color-cyan-glow: #4dd8e6;
+  --color-cyan-bright: #7ff5ff;
+  --color-teal: #14b8a6;
+  --color-amber: #f5b942;
+  --color-violet: #8b7cf6;
+  --color-rose: #f4657a;
+}
+
+:root {
+  color-scheme: dark;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-body);
+  background: var(--color-bg-deep);
+  color: #e7f4f8;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4, .font-display {
+  font-family: var(--font-display);
+  letter-spacing: 0.02em;
+}
+
+.font-mono {
+  font-family: var(--font-mono);
+}
+
+/* Scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.02);
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(77, 216, 230, 0.35);
+  border-radius: 8px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(77, 216, 230, 0.6);
+}
+
+/* Glass panel base */
+.glass-panel {
+  background: linear-gradient(160deg, rgba(20, 40, 60, 0.55), rgba(8, 18, 30, 0.65));
+  backdrop-filter: blur(18px) saturate(140%);
+  -webkit-backdrop-filter: blur(18px) saturate(140%);
+  border: 1px solid rgba(125, 220, 235, 0.16);
+  box-shadow:
+    0 8px 32px rgba(0, 0, 0, 0.35),
+    inset 0 1px 0 rgba(255, 255, 255, 0.05);
+}
+
+.glass-panel-solid {
+  background: linear-gradient(160deg, rgba(14, 28, 42, 0.92), rgba(6, 14, 24, 0.96));
+  backdrop-filter: blur(18px) saturate(140%);
+  -webkit-backdrop-filter: blur(18px) saturate(140%);
+  border: 1px solid rgba(125, 220, 235, 0.16);
+}
+
+.glow-text {
+  text-shadow: 0 0 12px rgba(77, 216, 230, 0.55), 0 0 2px rgba(127, 245, 255, 0.8);
+}
+
+.glow-border {
+  box-shadow: 0 0 0 1px rgba(77, 216, 230, 0.25), 0 0 24px rgba(77, 216, 230, 0.12);
+}
+
+.bg-radial-glow {
+  background:
+    radial-gradient(ellipse 70% 55% at 50% 15%, rgba(23, 92, 105, 0.28), transparent 60%),
+    radial-gradient(ellipse 60% 50% at 85% 85%, rgba(74, 45, 130, 0.16), transparent 60%),
+    #050b14;
+}
+
+/* leaflet dark tuning */
+.leaflet-container {
+  background: #071018 !important;
+  font-family: var(--font-body);
+}
+.leaflet-control-attribution {
+  background: rgba(5, 11, 20, 0.7) !important;
+  color: #7fa9b4 !important;
+}
+.leaflet-control-attribution a {
+  color: #9fd8e6 !important;
+}
+.leaflet-control-zoom a {
+  background: rgba(10, 22, 38, 0.85) !important;
+  color: #7ff5ff !important;
+  border-color: rgba(125, 220, 235, 0.2) !important;
+}
+
+@keyframes pulse-slow {
+  0%, 100% { opacity: 0.55; }
+  50% { opacity: 1; }
+}
+.animate-pulse-slow {
+  animation: pulse-slow 2.6s ease-in-out infinite;
+}
+
+.no-scrollbar {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+@keyframes float-y {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-4px); }
+}
+.animate-float {
+  animation: float-y 4s ease-in-out infinite;
+}
