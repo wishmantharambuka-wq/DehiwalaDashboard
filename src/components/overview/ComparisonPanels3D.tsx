@@ -118,7 +118,7 @@ interface ComparisonPanels3DProps {
   citySpan: number;
 }
 
-export function ComparisonPanels3D({ pinnedGNs, center, citySpan }: ComparisonPanels3DProps) {
+export function ComparisonPanels3D({ pinnedGNs, center }: ComparisonPanels3DProps) {
   const { data } = usePopulationData();
   const { divisions } = useProjectedGNDivisions();
   const clearPins = useDashboardStore((s) => s.clearPins);

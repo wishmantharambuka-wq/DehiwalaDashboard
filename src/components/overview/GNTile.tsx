@@ -8,7 +8,7 @@ import {
   buildEdgeGeometry,
   applyHeightGradient,
 } from "../../utils/threeGeo";
-import { scaleColor, DENSITY_SCALE } from "../../utils/geo";
+import { scaleColor } from "../../utils/geo";
 import { PROJECTION_ORIGIN } from "../../config";
 import type { ProjectedGN } from "../../hooks/useProjectedGNDivisions";
 import { PulseMarker } from "./PulseMarker";
